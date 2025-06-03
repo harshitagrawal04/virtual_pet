@@ -24,15 +24,16 @@ _What’s the goal or core purpose of the app?_
 ### ✅ Core Features
 - [ ] 3D character rendering
 - [ ] AI-driven character control (dialogue/movement/response)
+- [ ] Emotions/expression system
 - [ ] Desktop app with cross-platform support
 - [ ] Exporting to Windows/Linux/macOS
 
 ### 🌱 Optional / Future Features
 - [ ] Voice input/output
 - [ ] Custom animation editor
-- [ ] Emotions/expression system
 - [ ] Background environments
 - [ ] eating animation
+- [ ] sleeping (ideal) animation
 
 ### 🚫 Non-Goals
 - [ ] Mobile or web version  
