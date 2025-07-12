@@ -6,6 +6,7 @@
 ## 1. 🎯 Project Overview
 
 **Project Name:**  noirvayl
+
 **Short Description:**  
 _A desktop app featuring a 3D character controlled by AI._
 
